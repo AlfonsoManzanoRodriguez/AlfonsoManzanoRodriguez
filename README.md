@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alfonso Manzano
 
-🎯 Desarrollador backend junior con formación en Java EE, bases de datos y testing funcional.  
+🎯 Desarrollador backend junior con formación en Java EE, bases de datos, y testing funcional.  
 🐟 Ex-biólogo marino con años de experiencia en investigación científica y campañas en alta mar.  
 🔁 Reconvertido al sector TI y actualmente enfocado en desarrollo de aplicaciones web con enfoque backend.
 
@@ -8,19 +8,18 @@
 
 ## 🛠️ Tecnologías que manejo
 
-- **Lenguajes:** Java (Java EE), SQL, HTML, CSS, JavaScript (básico), Go (exposición en prácticas)
-- **Frameworks / APIs:** Servlets, JSTL, JPA (Hibernate)
-- **Bases de datos:** MySQL, Oracle SQL Developer, phpMyAdmin
-- **Herramientas:** Git, NetBeans, VS Code, VirtualBox
-- **Testing:** Testing funcional manual (prácticas en Plexus)
-- **Otros:** Bootstrap, despliegue básico en AwardSpace y cdmon
+- **Lenguajes:** Java (Servlets, JSTL, JPA), SQL, CSS, JavaScript, Go (exposición en prácticas).
+-  **Otras herramientas frontend:** Sass, Tailwind, Bootstrap. 
+- **Bases de datos:** MySQL, Oracle SQL Developer, phpMyAdmin.
+- **Testing:** Testing funcional manual (prácticas en Plexus).
+- **Otros:** Git, Docker, VirtualBox, despliegue (Azure y Webmin, AwardSpace, y cdmon).
 
 ---
 
 ## 📌 Proyectos destacados
 
-### 🛒 Food Rider *(en preparación)*
-Aplicación web Java EE desarrollada como proyecto final de ciclo. Simula un supermercado online especializado en suministros para hostelería.  
+### 🛒 Food Rider
+Aplicación web Java EE desarrollada como proyecto final de ciclo. Simula un supermercado online especializado en suministros para negocios hosteleros.  
 Funcionalidades: registro/login de usuarios, gestión de productos y pedidos, carrito de compras, base de datos relacional.  
 **Tecnologías:** Java EE · MVC · Servlets · JSTL · JPA · MySQL
 
